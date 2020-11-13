@@ -1,0 +1,65 @@
+C:\Users\User\Source\Repos\PragParking-1.0-DENNA-Jonatan-Hallqvist\PragParking 1.0\bin\Debug\netcoreapp3.1\PragParking 1.0.exe
+C:\Users\User\Source\Repos\PragParking-1.0-DENNA-Jonatan-Hallqvist\PragParking 1.0\bin\Debug\netcoreapp3.1\PragParking 1.0.deps.json
+C:\Users\User\Source\Repos\PragParking-1.0-DENNA-Jonatan-Hallqvist\PragParking 1.0\bin\Debug\netcoreapp3.1\PragParking 1.0.runtimeconfig.json
+C:\Users\User\Source\Repos\PragParking-1.0-DENNA-Jonatan-Hallqvist\PragParking 1.0\bin\Debug\netcoreapp3.1\PragParking 1.0.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\PragParking-1.0-DENNA-Jonatan-Hallqvist\PragParking 1.0\bin\Debug\netcoreapp3.1\PragParking 1.0.dll
+C:\Users\User\Source\Repos\PragParking-1.0-DENNA-Jonatan-Hallqvist\PragParking 1.0\bin\Debug\netcoreapp3.1\PragParking 1.0.pdb
+C:\Users\User\Source\Repos\PragParking-1.0-DENNA-Jonatan-Hallqvist\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\PragParking-1.0-DENNA-Jonatan-Hallqvist\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\PragParking-1.0-DENNA-Jonatan-Hallqvist\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.AssemblyInfo.cs
+C:\Users\User\Source\Repos\PragParking-1.0-DENNA-Jonatan-Hallqvist\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\PragParking-1.0-DENNA-Jonatan-Hallqvist\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.dll
+C:\Users\User\Source\Repos\PragParking-1.0-DENNA-Jonatan-Hallqvist\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.pdb
+C:\Users\User\Source\Repos\PragParking-1.0-DENNA-Jonatan-Hallqvist\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.genruntimeconfig.cache
+C:\Users\User\OneDrive\Skrivbord\test\1.0-PragParking-Jonatan_Hallqvist-main\PragParking-1.0-DENNA-Jonatan-Hallqvist\PragParking 1.0\bin\Debug\netcoreapp3.1\PragParking 1.0.exe
+C:\Users\User\OneDrive\Skrivbord\test\1.0-PragParking-Jonatan_Hallqvist-main\PragParking-1.0-DENNA-Jonatan-Hallqvist\PragParking 1.0\bin\Debug\netcoreapp3.1\PragParking 1.0.deps.json
+C:\Users\User\OneDrive\Skrivbord\test\1.0-PragParking-Jonatan_Hallqvist-main\PragParking-1.0-DENNA-Jonatan-Hallqvist\PragParking 1.0\bin\Debug\netcoreapp3.1\PragParking 1.0.runtimeconfig.json
+C:\Users\User\OneDrive\Skrivbord\test\1.0-PragParking-Jonatan_Hallqvist-main\PragParking-1.0-DENNA-Jonatan-Hallqvist\PragParking 1.0\bin\Debug\netcoreapp3.1\PragParking 1.0.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Skrivbord\test\1.0-PragParking-Jonatan_Hallqvist-main\PragParking-1.0-DENNA-Jonatan-Hallqvist\PragParking 1.0\bin\Debug\netcoreapp3.1\PragParking 1.0.dll
+C:\Users\User\OneDrive\Skrivbord\test\1.0-PragParking-Jonatan_Hallqvist-main\PragParking-1.0-DENNA-Jonatan-Hallqvist\PragParking 1.0\bin\Debug\netcoreapp3.1\PragParking 1.0.pdb
+C:\Users\User\OneDrive\Skrivbord\test\1.0-PragParking-Jonatan_Hallqvist-main\PragParking-1.0-DENNA-Jonatan-Hallqvist\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Skrivbord\test\1.0-PragParking-Jonatan_Hallqvist-main\PragParking-1.0-DENNA-Jonatan-Hallqvist\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Skrivbord\test\1.0-PragParking-Jonatan_Hallqvist-main\PragParking-1.0-DENNA-Jonatan-Hallqvist\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.AssemblyInfo.cs
+C:\Users\User\OneDrive\Skrivbord\test\1.0-PragParking-Jonatan_Hallqvist-main\PragParking-1.0-DENNA-Jonatan-Hallqvist\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Skrivbord\test\1.0-PragParking-Jonatan_Hallqvist-main\PragParking-1.0-DENNA-Jonatan-Hallqvist\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.dll
+C:\Users\User\OneDrive\Skrivbord\test\1.0-PragParking-Jonatan_Hallqvist-main\PragParking-1.0-DENNA-Jonatan-Hallqvist\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.pdb
+C:\Users\User\OneDrive\Skrivbord\test\1.0-PragParking-Jonatan_Hallqvist-main\PragParking-1.0-DENNA-Jonatan-Hallqvist\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.genruntimeconfig.cache
+C:\Users\User\OneDrive\Skrivbord\Prag Parking 1.0\PragParking 1.0\bin\Debug\netcoreapp3.1\PragParking 1.0.exe
+C:\Users\User\OneDrive\Skrivbord\Prag Parking 1.0\PragParking 1.0\bin\Debug\netcoreapp3.1\PragParking 1.0.deps.json
+C:\Users\User\OneDrive\Skrivbord\Prag Parking 1.0\PragParking 1.0\bin\Debug\netcoreapp3.1\PragParking 1.0.runtimeconfig.json
+C:\Users\User\OneDrive\Skrivbord\Prag Parking 1.0\PragParking 1.0\bin\Debug\netcoreapp3.1\PragParking 1.0.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Skrivbord\Prag Parking 1.0\PragParking 1.0\bin\Debug\netcoreapp3.1\PragParking 1.0.dll
+C:\Users\User\OneDrive\Skrivbord\Prag Parking 1.0\PragParking 1.0\bin\Debug\netcoreapp3.1\PragParking 1.0.pdb
+C:\Users\User\OneDrive\Skrivbord\Prag Parking 1.0\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Skrivbord\Prag Parking 1.0\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Skrivbord\Prag Parking 1.0\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.AssemblyInfo.cs
+C:\Users\User\OneDrive\Skrivbord\Prag Parking 1.0\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Skrivbord\Prag Parking 1.0\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.dll
+C:\Users\User\OneDrive\Skrivbord\Prag Parking 1.0\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.pdb
+C:\Users\User\OneDrive\Skrivbord\Prag Parking 1.0\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.genruntimeconfig.cache
+C:\Users\User\Source\Repos\Noskig\JonatanHallqvist.PragParking1.0\Prag Parking 1.0\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Noskig\JonatanHallqvist.PragParking1.0\Prag Parking 1.0\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Noskig\JonatanHallqvist.PragParking1.0\Prag Parking 1.0\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Noskig\JonatanHallqvist.PragParking1.0\Prag Parking 1.0\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Noskig\JonatanHallqvist.PragParking1.0\Prag Parking 1.0\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.dll
+C:\Users\User\Source\Repos\Noskig\JonatanHallqvist.PragParking1.0\Prag Parking 1.0\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.pdb
+C:\Users\User\Source\Repos\Noskig\JonatanHallqvist.PragParking1.0\Prag Parking 1.0\PragParking 1.0\bin\Debug\netcoreapp3.1\PragParking 1.0.exe
+C:\Users\User\Source\Repos\Noskig\JonatanHallqvist.PragParking1.0\Prag Parking 1.0\PragParking 1.0\bin\Debug\netcoreapp3.1\PragParking 1.0.deps.json
+C:\Users\User\Source\Repos\Noskig\JonatanHallqvist.PragParking1.0\Prag Parking 1.0\PragParking 1.0\bin\Debug\netcoreapp3.1\PragParking 1.0.runtimeconfig.json
+C:\Users\User\Source\Repos\Noskig\JonatanHallqvist.PragParking1.0\Prag Parking 1.0\PragParking 1.0\bin\Debug\netcoreapp3.1\PragParking 1.0.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Noskig\JonatanHallqvist.PragParking1.0\Prag Parking 1.0\PragParking 1.0\bin\Debug\netcoreapp3.1\PragParking 1.0.dll
+C:\Users\User\Source\Repos\Noskig\JonatanHallqvist.PragParking1.0\Prag Parking 1.0\PragParking 1.0\bin\Debug\netcoreapp3.1\PragParking 1.0.pdb
+C:\Users\User\Source\Repos\Noskig\JonatanHallqvist.PragParking1.0\Prag Parking 1.0\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.genruntimeconfig.cache
+C:\Users\User\source\repos\Noskig\JonatanHallqvist.PragParking1.0\Prag Parking 1.1\PragParking 1.0\bin\Debug\netcoreapp3.1\PragParking 1.0.exe
+C:\Users\User\source\repos\Noskig\JonatanHallqvist.PragParking1.0\Prag Parking 1.1\PragParking 1.0\bin\Debug\netcoreapp3.1\PragParking 1.0.deps.json
+C:\Users\User\source\repos\Noskig\JonatanHallqvist.PragParking1.0\Prag Parking 1.1\PragParking 1.0\bin\Debug\netcoreapp3.1\PragParking 1.0.runtimeconfig.json
+C:\Users\User\source\repos\Noskig\JonatanHallqvist.PragParking1.0\Prag Parking 1.1\PragParking 1.0\bin\Debug\netcoreapp3.1\PragParking 1.0.runtimeconfig.dev.json
+C:\Users\User\source\repos\Noskig\JonatanHallqvist.PragParking1.0\Prag Parking 1.1\PragParking 1.0\bin\Debug\netcoreapp3.1\PragParking 1.0.dll
+C:\Users\User\source\repos\Noskig\JonatanHallqvist.PragParking1.0\Prag Parking 1.1\PragParking 1.0\bin\Debug\netcoreapp3.1\PragParking 1.0.pdb
+C:\Users\User\source\repos\Noskig\JonatanHallqvist.PragParking1.0\Prag Parking 1.1\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Noskig\JonatanHallqvist.PragParking1.0\Prag Parking 1.1\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Noskig\JonatanHallqvist.PragParking1.0\Prag Parking 1.1\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.AssemblyInfo.cs
+C:\Users\User\source\repos\Noskig\JonatanHallqvist.PragParking1.0\Prag Parking 1.1\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Noskig\JonatanHallqvist.PragParking1.0\Prag Parking 1.1\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.dll
+C:\Users\User\source\repos\Noskig\JonatanHallqvist.PragParking1.0\Prag Parking 1.1\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.pdb
+C:\Users\User\source\repos\Noskig\JonatanHallqvist.PragParking1.0\Prag Parking 1.1\PragParking 1.0\obj\Debug\netcoreapp3.1\PragParking 1.0.genruntimeconfig.cache
